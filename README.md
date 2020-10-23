@@ -1,2 +1,2 @@
 # Portfolio
-https://dbibek.github.io/Portfolio-index.html/
+https://bibekdhakal.netlify.app/
